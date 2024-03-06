@@ -1,6 +1,6 @@
 ---
-title: "Teaching experience 1"
-collection: Teaching Assistant
+title: "Teaching Assistant"
+collection: UCMP 6010
 type: "Postgraduate course"
 permalink: /teaching/2023-fall-teaching-1
 venue: "HKUST (GZ)"
