@@ -19,13 +19,13 @@ Work experience
 * 2018 - 2021: Research Assistant
   * Peking University
   * Duties includes: Data collection, literature review
-  * Supervisor: 
+  * Supervisor: Prof. Yingquan Song
   
 Skills
 ======
 * Softwares
   * Stata
-  * R
+  * `R`
 * Languages
 
 Publications
